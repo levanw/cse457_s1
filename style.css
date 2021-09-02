@@ -1,7 +1,17 @@
+body {
+    background-color: lightgray ;
+}
 #content{
     color:blue;
-    margin: 1pt;
-    padding: 10%;
+    margin: 5%;
+    padding: 5%;
+}
+h1 {
+    text-align: center;
+}
+
+.info {
+    width: 50%;
 }
 /* fun facts */
 .generated-content{ 
@@ -25,4 +35,9 @@ a {
 .btn-secondary:hover{
     font-size: medium;
     font-style: italic;
+}
+
+img{
+    width: 50%;
+    margin-left: 25%;
 }
