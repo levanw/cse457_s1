@@ -1,0 +1,28 @@
+#content{
+    color:blue;
+    margin: 1pt;
+    padding: 10%;
+}
+/* fun facts */
+.generated-content{ 
+    color: red;
+}
+/* .btn {
+
+} */
+a:hover {
+    color: purple;
+    font-size: large;
+}
+a {
+    color: green;
+}
+
+.btn-secondary{
+    background-color: blueviolet;
+}
+
+.btn-secondary:hover{
+    font-size: medium;
+    font-style: italic;
+}
